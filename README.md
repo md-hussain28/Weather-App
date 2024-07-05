@@ -10,7 +10,7 @@ Weather-App is a web application that displays current weather information based
 
 ## Tech Stack
 
-- **Frontend**: React
+- **Frontend**: HTML , Tailwind CSS , JavaScript
 
 ## Installation
 
